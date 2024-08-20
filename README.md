@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on [Random Gif Generator](https://zaidhbtu.github.io/Random-Gif-Generator/)
 
-- 🌱 I’m currently learning **Django, AWS**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Djangos**
 
 - 👨‍💻 All of my projects are available at [https://zaidhbtu.github.io/Portfolio-Page/](https://zaidhbtu.github.io/Portfolio-Page/)
 
-- 💬 Ask me about **React, C++**
+- 💬 Ask me about **React, Node, Express, Mongodb**
 
 - 📫 How to reach me **zaidm6172@gmail.com**
 
