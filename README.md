@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 <h3 align="center">A Full Stack Developer & Eye-Catching Web Designer</h3>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zaidhbtu&label=Profile%20views&color=0e75b6&style=flat" alt="zaidhbtu" />
+</p>
 
 - 🔭 I’m currently working on **My Personal Project**  
 - 💬 Ask me about **Spring Boot, Web Development**  
@@ -112,9 +114,9 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
   <a href="https://leetcode.com/u/zaidhbtu/" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/41718343?s=280&v=4" alt="zaidhbtu" height="30" width="40" />
    Leetcode</a>
-  <a href="https://www.hackerrank.com/@aaravmahto99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaravmahto99" height="30" width="40" />
-   Hackerrank</a>
+  <a href="https://www.naukri.com/code360/profile/Zaid12hbtu" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/22269960?s=200&v=4" alt="zaid12hbtu" height="30" width="40" />
+  CodingNinja</a>
 </p>
 
 
