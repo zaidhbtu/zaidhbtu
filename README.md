@@ -18,29 +18,37 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
 - 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering and Chemistyr.  
 - ⭐ **HackerRank** – Achieved **4-star** rating in C.
 
+## 🛠 Tech Stack  
 
-- 🤝 I’m looking for help with **Djangos**
+### 🔹 Backend  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Spring+Boot&logo=springboot&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spring Boot logo" />
+  <img src="https://img.shields.io/static/v1?message=Spring+Security&logo=springsecurity&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spring Security logo" />
+  <img src="https://img.shields.io/static/v1?message=Spring+JPA&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Spring JPA logo" />
+  <img src="https://img.shields.io/static/v1?message=Hibernate&logo=hibernate&label=&color=59666C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Hibernate logo" />
+  <img src="https://img.shields.io/static/v1?message=JPQL&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="JPQL logo" />
+  <img src="https://img.shields.io/static/v1?message=HQL&logo=hibernate&label=&color=59666C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HQL logo" />
+  <img src="https://img.shields.io/static/v1?message=RESTful+APIs&logo=api&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="RESTful APIs logo" />
+  <img src="https://img.shields.io/static/v1?message=Thymeleaf&logo=thymeleaf&label=&color=005F0F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Thymeleaf logo" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MySQL logo" />
+</div>
+### 🔹 Frontend (Exploring/Learning)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="React logo" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TypeScript logo" />
+</div>  
 
-- 👨‍💻 All of my projects are available at [https://zaidhbtu.github.io/Portfolio-Page/](https://zaidhbtu.github.io/Portfolio-Page/)
 
-- 💬 Ask me about **React, Node, Express, Mongodb**
+### 🔹 Frontend (Proficient)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HTML logo" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CSS logo" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="JavaScript logo" />
+  <img src="https://img.shields.io/static/v1?message=jQuery&logo=jquery&label=&color=0769AD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="jQuery logo" />
+  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Bootstrap logo" />
+  <img src="https://img.shields.io/static/v1?message=Tailwind+CSS&logo=tailwindcss&label=&color=38B2AC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tailwind CSS logo" />
+</div>
 
-- 📫 How to reach me **zaidm6172@gmail.com**
+ 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XMtREPHD6VvIDw4QDQfHt2ASSDe4ahIS/view?usp=drivesdk](https://drive.google.com/file/d/1XMtREPHD6VvIDw4QDQfHt2ASSDe4ahIS/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think i am funny and passionate about poetry**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@zaidm6172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zaidm6172" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaidhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidhbtu" height="30" width="40" /></a>
-<a href="https://instagram.com/zaid_alig_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaid_alig_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zaidhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zaidhbtu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zaidhbtu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaidhbtu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zaidhvsqt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zaidhvsqt" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
