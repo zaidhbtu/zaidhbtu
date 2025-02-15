@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
 <h3 align="center">A Full Stack Developer & Eye-Catching Web Designer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aarav-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="aarav-mahto" />
-</p>
+
 
 - 🔭 I’m currently working on **My Personal Project**  
 - 💬 Ask me about **Spring Boot, Web Development**  
