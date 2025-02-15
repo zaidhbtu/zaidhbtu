@@ -110,8 +110,8 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidhbtu" height="30" width="40" />
    Linkedin</a>
   <a href="https://leetcode.com/u/zaidhbtu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="zaidhbtu" height="30" width="40" />
-   Instagram</a>
+    <img align="center" src="https://avatars.githubusercontent.com/u/41718343?s=280&v=4" alt="zaidhbtu" height="30" width="40" />
+   Leetcode</a>
   <a href="https://www.hackerrank.com/@aaravmahto99" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaravmahto99" height="30" width="40" />
    Hackerrank</a>
