@@ -1,14 +1,25 @@
 
 ![MasterHead](https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png)
 <h1 align="center">Hi 👋, I'm Mohd Zaid</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A Full Stack Developer & Eye-Catching Web Designer</h3>
 
-- 🔭 I’m currently working on [Random Gif Generator](https://zaidhbtu.github.io/Random-Gif-Generator/)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aarav-mahto&label=Profile%20views&color=0e75b6&style=flat" alt="aarav-mahto" />
+</p>
 
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on **My Personal Project**  
+- 💬 Ask me about **Spring Boot, Web Development**  
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+## 👋 About Me  
+
+I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate about building **high-performance web applications**. I specialize in crafting **scalable, responsive, and feature-rich** solutions that enhance user experience and drive business success, while also **exploring and implementing React.js and JavaScript** in projects.  
+
+## 🏆 Achievements  
+
+- 🎯 **NIMCET 2022** – Secured **AIR 959** in the national-level MCA entrance exam.  
+- 🎓 **Chegg India Expert (CSE)** – Providing solutions in Computer Science & Engineering and Chemistyr.  
+- ⭐ **HackerRank** – Achieved **4-star** rating in C.
+
 
 - 🤝 I’m looking for help with **Djangos**
 
