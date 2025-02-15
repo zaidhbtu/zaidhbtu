@@ -40,7 +40,7 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="React logo" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TypeScript logo" />
 </div>  
-
+*(Familiar with concepts, currently working projects)*  
 
 ### 🔹 Frontend (Proficient)  
 <div align="left">
@@ -72,3 +72,16 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
 - Covered **C, C++, And learn About Core Subject**.  
 - Gained hands-on experience with **HTML, CSS and Data Structures in C++**.  
 
+
+## 🌐 Projects - **(Currently Live)** –hosted on Different Website.  
+- **Bangles E-commerce** – A well-organized website to show you best Bangles across the india.Have Details Page with Customer Review and Rating . 
+- **Advanced TODO** – A Todo App with some extra feature like have subtask list and user can easily show there progress of work and how mush work is completed.
+- **Random Gif Generator** – A dedicated platform to Generate the Gif of your Choice.  
+- **Content Management Tool** – A project which can manage the user content and user can easily add and remove the content.
+
+
+## 📂 Project Live with there code  
+- 🔹 **[Bangles Website](https://bangles-website.netlify.app/)** –A well-organized website to show you best Bangles across the india.  
+- 🔹 **[ToDo](https://basic-taskorder-list.netlify.app/)** – A Todo App.  
+- 🔹 **[Random Gif Generator](https://zaidhbtu.github.io/Random-Gif-Generator/)** – A Gif Generator Website where you can generate Gif.  
+- 🔹 **[Content Management](https://zaidhbtu.github.io/Content_Management_tools./)** – A User Friendly Management tool to manage the Content of the User.
