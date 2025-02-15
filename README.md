@@ -85,3 +85,48 @@ I'm a **Full-Stack Developer** with expertise in **Spring Boot**, passionate abo
 - 🔹 **[ToDo](https://basic-taskorder-list.netlify.app/)** – A Todo App.  
 - 🔹 **[Random Gif Generator](https://zaidhbtu.github.io/Random-Gif-Generator/)** – A Gif Generator Website where you can generate Gif.  
 - 🔹 **[Content Management](https://zaidhbtu.github.io/Content_Management_tools./)** – A User Friendly Management tool to manage the Content of the User.
+
+
+  ## 🎓 College Time Projects  
+- **[Student Management System]** – A system to manage multiple student data Like their name, email, Marks in the particular Subjec.Developed during college while learning Java, JDBC, Spring Boot, and MySQL.  
+- **[Content Management Tool](https://zaidhbtu.github.io/Content_Management_tools./)** – A project which can manage the user content and user can easily add and remove the content. Built while learning HTML, CSS, Javascript and Some basic of PHP.
+- **[News Api website]** - A New website where user can easily read the new of their interest.
+
+
+  ## 🌍 Languages  
+
+- 🏅 **Hindi** – Native speaker  
+- 💬 **English** – Conversational proficiency
+- 🏅 **Urdu** - Intermediate
+
+💡 Always exploring new technologies and improving my projects!  
+📫 Let's connect and build something awesome together.  
+- 📫 How to reach me **zaidm6172@gmail.com**
+
+
+## 🌎 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/zaidhbtu/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidhbtu" height="30" width="40" />
+   Linkedin</a>
+  <a href="https://leetcode.com/u/zaidhbtu/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="zaidhbtu" height="30" width="40" />
+   Instagram</a>
+  <a href="https://www.hackerrank.com/@aaravmahto99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaravmahto99" height="30" width="40" />
+   Hackerrank</a>
+</p>
+
+
+## 📊 GitHub Stats  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidhbtu&show_icons=true&locale=en&layout=compact" alt="zaidhbtu" />
+</p>
+
+## 🚀 What I Do:
+- Develop dynamic and efficient web applications
+- Work with Java, Spring Boot, React.js, JavaScript, and more
+- Manage live projects and contribute to personal and client-based projects
+- Build and maintain scalable, high-performance websites
+- Continuously enhance my technical skills and explore new technologies
+
